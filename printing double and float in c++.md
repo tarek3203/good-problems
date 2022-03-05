@@ -1,4 +1,4 @@
-[link] (https://www.programiz.com/cpp-programming/float-double)
+[link](https://www.programiz.com/cpp-programming/float-double)
 some notes :
 since float has a precision of up to only 7 digits, it shows garbage values after its precision is exceeded.
 
